@@ -1,6 +1,6 @@
 | [Home](../README.md)  | [Data Structures](data_structure_menu.md)  |
 | :------------| -----------:|
-| fff| fff|
+| | |
 
 # Data Structures:
 #### [BST](bst_printer.md)
