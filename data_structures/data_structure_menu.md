@@ -1,6 +1,5 @@
-| | |
+[Home](../README.md)  | [Data Structures](data_structure_menu.md)
 | :------------| -----------:|
-| [Home](../README.md)  | [Data Structures](data_structure_menu.md)  |
 
 
 # Data Structures:
