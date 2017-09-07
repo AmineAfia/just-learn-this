@@ -1,7 +1,7 @@
 <table style="width:100%">
   <tr>
     <th><a href="/just-learn-this">Home</a></th>
-    <th><a href="/just-learn-this/data_structures/data_structure_menu.html">Data Structures</a></th>
+    <th align="right"><a href="/just-learn-this/data_structures/data_structure_menu.html">Data Structures</a></th>
   </tr>
 </table>
 
