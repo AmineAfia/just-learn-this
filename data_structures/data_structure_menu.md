@@ -1,3 +1,5 @@
+[Home](../README.md)
+
 # Data Structures:
 #### [BST](bst_printer.md)
 #### [Graphe with adjacency list](graph_adj_list_printer.md)
