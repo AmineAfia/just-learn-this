@@ -1,6 +1,14 @@
 [Home](../README.md)  | [Data Structures](data_structure_menu.md)
 :------------| -----------:
 
+<table style="width:100%">
+  <tr>
+    <th>[Home](../README.md)</th>
+    <th>[Data Structures](data_structure_menu.md)</th> 
+  </tr>
+</table>
+
+
 
 # Data Structures:
 #### [BST](bst_printer.md)
