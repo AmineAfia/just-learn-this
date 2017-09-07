@@ -1,4 +1,5 @@
-#### [main menu](data_structure_menu.md)
+| [Home](../README.md)  | [Data Structures](data_structure_menu.md)  |
+| :------------| -----------:|
 
 ```python
 # implementation of an undirected graph using Adjacency Lists
