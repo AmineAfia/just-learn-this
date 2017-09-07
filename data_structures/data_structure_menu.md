@@ -1,10 +1,7 @@
-[Home](../README.md)  | [Data Structures](data_structure_menu.md)
-:------------| -----------:
-
 <table style="width:100%">
   <tr>
-    <th>[Home](../README.md)</th>
-    <th>[Data Structures](data_structure_menu.md)</th> 
+    <th><a href="/README.md">Home</a></th>
+    <th><a href="./data_structure_menu.md">Data Structures</a></th>
   </tr>
 </table>
 
