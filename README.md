@@ -1,2 +1,20 @@
-# must-know
-Basic stuff for interviews :)
+# just-learn-this
+Start the playlist and just learn this. List with must have skills for hyped tech roles. Trust me you'll need it and it'll make you a better engineer 😉
+
+- Interviews:
+	- [Data Structures](data_structures/data_structure_menu.md)
+
+- Software Engineer
+
+- AI Engineer
+
+- Data Scientist
+
+- System Engineer
+
+<iframe src="https://open.spotify.com/embed/user/dr.avril/playlist/4kPSeFaRyychIhGj5VcGlf" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+- TODOs:
+	- Make list of most asked software roles
+	- Find the most important knowledge/skill each role requires 😁
+
