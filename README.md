@@ -6,7 +6,7 @@ Start the playlist and just learn this. Trust me you'll need it and it'll make y
 ### Interviews:
 - Programming languages:
 	- [Python](https://github.com/AmineAfia/Py-Cracking)
-	- [JS](https://github.com/DrkSephy/es6-cheatsheet/blob/master/README.md)
+	- [JS](js/es6-cheatcheet.md)
 - Coding:
 	- [Data Structures](data_structures/data_structure_menu.md)
 	- Algorithms
@@ -14,7 +14,15 @@ Start the playlist and just learn this. Trust me you'll need it and it'll make y
 - Conception and Design:
 	- System Design
 	- UI Design
-- Books
+- Books and training platforms:
+	- Books:
+		- Elements of programming interviews (Python)
+		- CTCI (Java)
+	- Platforms:
+		- Leetcode
+		- Hackerrank
+		- Codillity
+		- geeksforgeeks
 
 #### Future Lists: Lists with must have skills for hyped tech roles.
 ### Software Engineer
