@@ -6,7 +6,7 @@ Start the playlist and just learn this. Trust me you'll need it and it'll make y
 ### Interviews:
 - Programming languages:
 	- [Python](https://github.com/AmineAfia/Py-Cracking)
-	- [JS](https://github.com/AmineAfia/js-cracking)
+	- [JS](https://github.com/DrkSephy/es6-cheatsheet/blob/master/README.md)
 - Coding:
 	- [Data Structures](data_structures/data_structure_menu.md)
 	- Algorithms
