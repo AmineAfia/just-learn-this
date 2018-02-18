@@ -4,6 +4,8 @@ Start the playlist and just learn this. Trust me you'll need it and it'll make y
 --> To use the navigation links visit the gh-page at https://amineafia.github.io/just-learn-this/
 
 ### Interviews:
+- General:
+	- [tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
 - Programming languages:
 	- [Python](https://github.com/AmineAfia/Py-Cracking)
 	- [JS](js/es6-cheatsheet.md)
@@ -24,7 +26,7 @@ Start the playlist and just learn this. Trust me you'll need it and it'll make y
 		- Codillity
 		- geeksforgeeks
 
-#### Future Lists: Lists with must have skills for hyped tech roles.
+#### Future Lists: Lists with must have skills for cool tech roles.
 ### Software Engineer
 
 ### ML Engineer
