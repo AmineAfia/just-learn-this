@@ -6,8 +6,7 @@ Start the playlist and just learn this. Trust me you'll need it and it'll make y
 ### Interviews:
 - General:
 	- [tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
-	- [Big-O](https://cooervo.github.io/Algorithms-DataStructures-BigONotation/index.html)
-	<iframe src="https://cooervo.github.io/Algorithms-DataStructures-BigONotation/index.html"></iframe>
+	- [Big-O](general/bigo.md)
 
 - Programming languages:
 	- [Python](https://github.com/AmineAfia/Py-Cracking)
