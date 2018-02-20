@@ -4,7 +4,7 @@
   </tr>
   <tr>
     <td style="width:100%">
-        <iframe src="https://cooervo.github.io/Algorithms-DataStructures-BigONotation/index.html" width="120%" height="2000"></iframe>
+        <iframe src="https://cooervo.github.io/Algorithms-DataStructures-BigONotation/index.html" width="160%" height="2200"></iframe>
     </td>
   </tr>
 </table>
