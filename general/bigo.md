@@ -1,4 +1,4 @@
-<table style="width:100%">
+<table style="width:120%">
   <tr>
     <th><a href="/just-learn-this"> < Home </a></th>
   </tr>
