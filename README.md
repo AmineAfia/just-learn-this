@@ -5,7 +5,8 @@ Start the playlist and just learn this. Trust me you'll need it and it'll make y
 
 ### Interviews:
 - General:
-	- [tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
+	<!-- - [tech interview handbook](https://github.com/yangshun/tech-interview-handbook) -->
+	- [tech interview handbook](general/handbook.md)
 	- [Big-O](general/bigo.md)
 
 - Programming languages:
