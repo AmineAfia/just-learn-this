@@ -3,4 +3,4 @@
     <th><a href="/just-learn-this"> < Home </a></th>
   </tr>
 </table>
-<iframe src="https://cooervo.github.io/Algorithms-DataStructures-BigONotation/index.html" width="99%" height="1500"></iframe>
+<iframe src="https://cooervo.github.io/Algorithms-DataStructures-BigONotation/index.html" width="95%" height="2000"></iframe>
